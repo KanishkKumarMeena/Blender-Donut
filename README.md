@@ -1,14 +1,16 @@
 # Blender Donut 🍩
 
-This project contains a 3D model of a donut created in Blender, following the famous Blender Guru tutorial series. The project includes both the source Blender file and rendered outputs.
+Blender Donut is a beginner-friendly 3D modeling project built in Blender, showcasing the creation of a realistic donut. This project includes the full .blend source file as well as high-quality rendered images of the final model.
 
 ## 🖼️ Final Renders
 
 ### Image Render
-![Donut Render](Final%20Results/donut_render.png)
+![Donut Render](https://github.com/KanishkKumarMeena/Blender-Donut/blob/1e3f0b13f66392f141106689954e42f2b4f48fbc/Final%20Results/Donut%20Cycles.png)
 
 ### Animation Preview
-![Donut Animation](Final%20Results/donut_animation.gif)
+> [Download full quality video](https://github.com/KanishkKumarMeena/Blender-Donut/blob/2489553d063c663702620af624cad4830e61c8d8/Final%20Results/Donut%20Video.mp4)
+
+![Donut Animation](https://github.com/KanishkKumarMeena/Blender-Donut/blob/2489553d063c663702620af624cad4830e61c8d8/Final%20Results/Donut.gif)
 
 ## 📁 Project Structure
 
@@ -67,11 +69,5 @@ Feel free to fork this project and experiment with:
 - Alternative lighting setups
 - Custom animations
 - Additional toppings or variations
-
-## 📄 License
-
-This project is created for educational purposes. While the Blender file is my own work, the tutorial concept belongs to Blender Guru.
-
----
 
 *Created with ❤️ using Blender* 
